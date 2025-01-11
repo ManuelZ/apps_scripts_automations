@@ -3,12 +3,15 @@ My personal collection of Google Apps Scripts to automate workflows, tasks and i
 
 ## Available Scripts
 
-#### Gmail to Spreadsheet Exporter
+Usage instructions are available in the script's comments.
+
+### Gmail to Spreadsheet Exporter
 Exports Gmail messages to a Google Spreadsheet based on search criteria. 
-Setup and usage instructions are available in the script's comments.
 
 
-##### Requirements
+### Gmail Attachments Exporter
+Downloads email attachments received from a specific sender and saves them to a Google Drive folder.
+
+## Requirements
 
 Google Workspace account
-Google Apps Script permissions
